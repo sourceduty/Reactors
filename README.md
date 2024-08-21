@@ -17,6 +17,31 @@ Biological reactors, or bioreactors, are systems that provide an environment con
 
 Quantum reactors are a theoretical concept that explores the potential of harnessing quantum mechanical principles for energy generation and computation. Unlike traditional nuclear reactors, which rely on nuclear fission or fusion, quantum reactors would utilize the unique properties of quantum systems, such as superposition and entanglement, to achieve unprecedented levels of efficiency and control in energy processes. While still in the realm of speculation and research, the idea of quantum reactors could revolutionize energy production by potentially offering a clean, virtually limitless source of power with minimal environmental impact. These reactors might also play a crucial role in advancing quantum computing and other quantum technologies, pushing the boundaries of what is possible in science and engineering. However, the development of quantum reactors is still in its infancy, with many technical challenges yet to be overcome before they can become a practical reality.
 
+Additional Types:
+
+```
+Pressurized Water Reactor (PWR)
+Boiling Water Reactor (BWR)
+Fast Breeder Reactor (FBR)
+Heavy Water Reactor (HWR)
+Gas-Cooled Reactor (GCR)
+Liquid Metal Fast Breeder Reactor (LMFBR)
+Advanced Gas-Cooled Reactor (AGR)
+Molten Salt Reactor (MSR)
+Small Modular Reactor (SMR)
+Pebble Bed Reactor (PBR)
+Sodium-Cooled Fast Reactor (SFR)
+Lead-Cooled Fast Reactor (LFR)
+Thorium Reactor
+Fusion Reactor
+High-Temperature Gas-Cooled Reactor (HTGR)
+Supercritical Water Reactor (SCWR)
+Very High-Temperature Reactor (VHTR)
+Traveling Wave Reactor (TWR)
+Integral Fast Reactor (IFR)
+Microreactor
+```
+
 #
 ### Simulated Reactors
 
