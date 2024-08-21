@@ -42,6 +42,16 @@ Very High-Temperature Reactor (VHTR)
 Traveling Wave Reactor (TWR)
 Integral Fast Reactor (IFR)
 Microreactor
+Magnetic Reactor: Used in magnetic confinement fusion, like tokamaks.
+Photochemical Reactor: Drives reactions using light.
+Plasma Reactor: Maintains plasma for materials processing or fusion research.
+Thermochemical Reactor: Uses heat to drive chemical reactions.
+Microreactor: Miniaturized chemical reactor for small-scale precision processes.
+Electrochemical Reactor: Facilitates reactions with electrical energy, like electrolysis.
+Catalytic Reactor: Speeds up reactions using a catalyst.
+Fluidized Bed Reactor: Suspends solid particles in fluid for improved reactions.
+Packed Bed Reactor: Reactants flow over solid catalyst particles.
+Hybrid Reactor: Combines different reactor types or principles.
 ```
 
 #
@@ -61,21 +71,6 @@ In the context of electrical systems, a reactor refers to a type of inductor use
 In the realm of social media, a reactor is typically a person or software that responds to content, such as posts, videos, or comments. This type of reaction can range from simple likes or dislikes to more complex emotional responses, comments, or even automated feedback. Reactors in social media help drive engagement and interaction, making platforms more dynamic and responsive to user input. The reactions from users or automated systems can influence the visibility and popularity of content, thus playing a significant role in how information spreads and is perceived online.
 
 In gaming, a reactor often refers to a Non-Player Character (NPC) that responds to the actions of the player. These reactions can vary depending on the game's design, from simple scripted responses to complex, adaptive behaviors that change based on the player's decisions. Reactors in gaming enhance the immersive experience by making the game world feel more interactive and responsive. The NPCs' reactions can influence the narrative, gameplay outcomes, and overall player experience, adding depth and complexity to the virtual environment.
-
-Additional Alternative Reactor Types:
-
-```
-Magnetic Reactor: Used in magnetic confinement fusion, like tokamaks.
-Photochemical Reactor: Drives reactions using light.
-Plasma Reactor: Maintains plasma for materials processing or fusion research.
-Thermochemical Reactor: Uses heat to drive chemical reactions.
-Microreactor: Miniaturized chemical reactor for small-scale precision processes.
-Electrochemical Reactor: Facilitates reactions with electrical energy, like electrolysis.
-Catalytic Reactor: Speeds up reactions using a catalyst.
-Fluidized Bed Reactor: Suspends solid particles in fluid for improved reactions.
-Packed Bed Reactor: Reactants flow over solid catalyst particles.
-Hybrid Reactor: Combines different reactor types or principles.
-```
 
 #
 ### Security
