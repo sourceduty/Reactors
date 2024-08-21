@@ -104,6 +104,8 @@ In both types of correlations, the reaction between the bots is pivotal to the s
 [Biological Reactor](https://github.com/sourceduty/Biological_Reactor)
 <br>
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
