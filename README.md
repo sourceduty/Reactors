@@ -42,16 +42,16 @@ Very High-Temperature Reactor (VHTR)
 Traveling Wave Reactor (TWR)
 Integral Fast Reactor (IFR)
 Microreactor
-Magnetic Reactor: Used in magnetic confinement fusion, like tokamaks.
-Photochemical Reactor: Drives reactions using light.
-Plasma Reactor: Maintains plasma for materials processing or fusion research.
-Thermochemical Reactor: Uses heat to drive chemical reactions.
-Microreactor: Miniaturized chemical reactor for small-scale precision processes.
-Electrochemical Reactor: Facilitates reactions with electrical energy, like electrolysis.
-Catalytic Reactor: Speeds up reactions using a catalyst.
-Fluidized Bed Reactor: Suspends solid particles in fluid for improved reactions.
-Packed Bed Reactor: Reactants flow over solid catalyst particles.
-Hybrid Reactor: Combines different reactor types or principles.
+Magnetic Reactor
+Photochemical Reactor
+Plasma Reactor
+Thermochemical Reactor
+Microreactor
+Electrochemical Reactor
+Catalytic Reactor
+Fluidized Bed Reactor
+Packed Bed Reactor
+Hybrid Reactor
 ```
 
 #
