@@ -46,7 +46,6 @@ Magnetic Reactor
 Photochemical Reactor
 Plasma Reactor
 Thermochemical Reactor
-Microreactor
 Electrochemical Reactor
 Catalytic Reactor
 Fluidized Bed Reactor
