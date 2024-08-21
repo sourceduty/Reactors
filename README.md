@@ -62,7 +62,7 @@ In the realm of social media, a reactor is typically a person or software that r
 
 In gaming, a reactor often refers to a Non-Player Character (NPC) that responds to the actions of the player. These reactions can vary depending on the game's design, from simple scripted responses to complex, adaptive behaviors that change based on the player's decisions. Reactors in gaming enhance the immersive experience by making the game world feel more interactive and responsive. The NPCs' reactions can influence the narrative, gameplay outcomes, and overall player experience, adding depth and complexity to the virtual environment.
 
-Additional Reactor Types:
+Additional Alternative Reactor Types:
 
 ```
 Magnetic Reactor: Used in magnetic confinement fusion, like tokamaks.
