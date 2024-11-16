@@ -110,6 +110,10 @@ In both types of correlations, the reaction between the bots is pivotal to the s
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 <br>
 [Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Image Power](https://github.com/sourceduty/Image_Power)
+<br>
+[Text Power](https://github.com/sourceduty/Text_Power)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
