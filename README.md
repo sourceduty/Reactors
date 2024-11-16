@@ -95,6 +95,10 @@ On the other hand, if the bots are in a cooperating correlation, the focus shift
 In both types of correlations, the reaction between the bots is pivotal to the success of their interaction. In a competing correlation, the reaction might be one of rivalry, driving each bot to push its limits, while in a cooperating correlation, the reaction could be one of mutual support and adaptability, enhancing the overall process. The nature of this reaction directly influences the efficiency, effectiveness, and eventual outcome of the correlated processes, making it a critical aspect to monitor and refine in any bot-based simulation.
 
 #
+
+Alex: "*In Newton's third law of motion an object (reactant) applies a force (action) on a second object, this reactant will apply a force (reaction) back on the first reactant.*"
+
+#
 ### Related Links
 
 [Energy](https://github.com/sourceduty/Energy)
